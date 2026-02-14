@@ -10,10 +10,10 @@ This document explains how to configure an **EC2 NAT Instance** using **Amazon L
 
 - **VPC CIDR**: 10.0.0.0/16
 - **Public Subnet**: 10.0.1.0/24
-  - NAT EC2 Instance (10.0.1.72)
+  - NAT EC2 Instance (10.0.1.*)
   - Internet Gateway attached to VPC
 - **Private Subnet**: 10.0.2.0/24
-  - Private EC2 Instance (10.0.2.5)
+  - Private EC2 Instance (10.0.2.*)
 
 Traffic Flow:
 
