@@ -1,7 +1,7 @@
 # AWS_Instance_Setup
 
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
-This project focuses on building a scalable and secure AWS networking setup by creating two independent VPCs and connecting them through a VPC Peering connection, fully automated using Terraform.
+This architecture enables private EC2 instances to securely access the internet without having public IP addresses, using a NAT Instance deployed in a public subnet.
 
 
 ### Infrastructure Diagram:
