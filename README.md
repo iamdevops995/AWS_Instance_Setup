@@ -9,3 +9,5 @@ This architecture enables private EC2 instances to securely access the internet 
 <p align="center">
   <img src="images/AWS VPC architecture.png" alt="Architecture" width="400">
 </p>
+
+**Note:** I will add Terraform code soon...........
